@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 crawl4ai = "^0.4.247"
+llama-index = "^0.12.19"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
