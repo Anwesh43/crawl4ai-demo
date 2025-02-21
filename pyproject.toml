@@ -10,6 +10,9 @@ python = "^3.9"
 crawl4ai = "^0.4.247"
 llama-index = "^0.12.19"
 python-dotenv = "^1.0.1"
+fastapi = "^0.115.8"
+uvicorn = "^0.34.0"
+pydantic = "^2.10.6"
 
 
 [build-system]
